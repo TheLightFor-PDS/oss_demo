@@ -8,5 +8,6 @@ package com.tian.gitdemo.controller;
 public class GitController {
     public static void main(String[] args) {
         System.out.println("少年歌行");
+        System.out.println("江南霹雳堂 雷家 雷无桀");
     }
 }
